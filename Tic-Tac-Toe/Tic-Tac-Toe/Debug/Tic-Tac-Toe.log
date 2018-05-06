@@ -1,0 +1,8 @@
+﻿  game_object.cpp
+c:\users\shweta\documents\visual studio 2015\projects\tic-tac-toe\tic-tac-toe\game_object.cpp(249): warning C4018: '<': signed/unsigned mismatch
+  Tic-Tac-Toe.cpp
+  Generating Code...
+c:\users\shweta\documents\visual studio 2015\projects\tic-tac-toe\tic-tac-toe\game_object.cpp(239): warning C4715: 'game_object::get_winner': not all control paths return a value
+c:\users\shweta\documents\visual studio 2015\projects\tic-tac-toe\tic-tac-toe\game_object.cpp(222): warning C4715: 'game_object::check_win': not all control paths return a value
+  Tic-Tac-Toe.vcxproj -> C:\Users\Shweta\Documents\Visual Studio 2015\Projects\Tic-Tac-Toe\Debug\Tic-Tac-Toe.exe
+  Tic-Tac-Toe.vcxproj -> C:\Users\Shweta\Documents\Visual Studio 2015\Projects\Tic-Tac-Toe\Debug\Tic-Tac-Toe.pdb (Full PDB)
